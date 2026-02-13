@@ -1,9 +1,9 @@
-#include <stdio.h>
-int[50] build_arr()
+include <stdio.h>
+
+int arr(85)
 {
-    int arr[50];
-    for(int i=0; i < 50; i++)
-    {
-        arr[i] = i+1*2;
-    }
+    scanf(int i=1; i<=85; i++)
+
 }
+ 
+int main()
